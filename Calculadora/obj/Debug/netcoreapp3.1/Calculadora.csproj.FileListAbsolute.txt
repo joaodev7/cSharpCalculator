@@ -1,0 +1,13 @@
+C:\Users\joao.andrade\source\repos\Projeto001\Projeto001\bin\Debug\netcoreapp3.1\Calculadora.exe
+C:\Users\joao.andrade\source\repos\Projeto001\Projeto001\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\Users\joao.andrade\source\repos\Projeto001\Projeto001\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+C:\Users\joao.andrade\source\repos\Projeto001\Projeto001\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+C:\Users\joao.andrade\source\repos\Projeto001\Projeto001\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\joao.andrade\source\repos\Projeto001\Projeto001\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\joao.andrade\source\repos\Projeto001\Projeto001\obj\Debug\netcoreapp3.1\Calculadora.csprojAssemblyReference.cache
+C:\Users\joao.andrade\source\repos\Projeto001\Projeto001\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\Users\joao.andrade\source\repos\Projeto001\Projeto001\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\Users\joao.andrade\source\repos\Projeto001\Projeto001\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\joao.andrade\source\repos\Projeto001\Projeto001\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\joao.andrade\source\repos\Projeto001\Projeto001\obj\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\joao.andrade\source\repos\Projeto001\Projeto001\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache

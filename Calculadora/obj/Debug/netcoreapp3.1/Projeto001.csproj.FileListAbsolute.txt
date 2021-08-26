@@ -1,0 +1,13 @@
+C:\Users\joao.andrade\source\repos\Projeto001\Projeto001\bin\Debug\netcoreapp3.1\Projeto001.exe
+C:\Users\joao.andrade\source\repos\Projeto001\Projeto001\bin\Debug\netcoreapp3.1\Projeto001.deps.json
+C:\Users\joao.andrade\source\repos\Projeto001\Projeto001\bin\Debug\netcoreapp3.1\Projeto001.runtimeconfig.json
+C:\Users\joao.andrade\source\repos\Projeto001\Projeto001\bin\Debug\netcoreapp3.1\Projeto001.runtimeconfig.dev.json
+C:\Users\joao.andrade\source\repos\Projeto001\Projeto001\bin\Debug\netcoreapp3.1\Projeto001.dll
+C:\Users\joao.andrade\source\repos\Projeto001\Projeto001\bin\Debug\netcoreapp3.1\Projeto001.pdb
+C:\Users\joao.andrade\source\repos\Projeto001\Projeto001\obj\Debug\netcoreapp3.1\Projeto001.csprojAssemblyReference.cache
+C:\Users\joao.andrade\source\repos\Projeto001\Projeto001\obj\Debug\netcoreapp3.1\Projeto001.AssemblyInfoInputs.cache
+C:\Users\joao.andrade\source\repos\Projeto001\Projeto001\obj\Debug\netcoreapp3.1\Projeto001.AssemblyInfo.cs
+C:\Users\joao.andrade\source\repos\Projeto001\Projeto001\obj\Debug\netcoreapp3.1\Projeto001.csproj.CoreCompileInputs.cache
+C:\Users\joao.andrade\source\repos\Projeto001\Projeto001\obj\Debug\netcoreapp3.1\Projeto001.dll
+C:\Users\joao.andrade\source\repos\Projeto001\Projeto001\obj\Debug\netcoreapp3.1\Projeto001.pdb
+C:\Users\joao.andrade\source\repos\Projeto001\Projeto001\obj\Debug\netcoreapp3.1\Projeto001.genruntimeconfig.cache
